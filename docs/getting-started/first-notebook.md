@@ -27,7 +27,7 @@ Let's start by creating a notebook for a sample research project.
    to understand current trends and potential mitigation strategies.
    ```
 
-![New Notebook](/assets/new_notebook.png)
+![New Notebook](/docs/assets/new_notebook.png)
 
 4. **Click "Create Notebook"**
 
@@ -47,7 +47,7 @@ Now let's add different types of content to your notebook. We'll add three diffe
 
 The system will automatically scrape the content and make it searchable.
 
-![Add Source](/assets/add_source.png)
+![Add Source](/docs/assets/add_source.png)
 
 ### Adding a Text Note
 
@@ -66,7 +66,7 @@ The system will automatically scrape the content and make it searchable.
 
 You'll now see all your sources listed in the left column:
 
-![Asset List](/assets/asset_list.png)
+![Asset List](/docs/assets/asset_list.png)
 
 ## Step 3: Generating Your First AI Insights
 
@@ -77,7 +77,7 @@ Now that you have content, let's generate some AI insights using transformations
 3. **Try a pre-built transformation** like "Summarize" or "Key Points"
 4. **Click "Generate"** to create your first AI insight
 
-![Transformations](/assets/transformations.png)
+![Transformations](/docs/assets/transformations.png)
 
 The AI will analyze your content and provide insights based on the transformation you selected. These insights can be saved as notes for future reference.
 
@@ -87,7 +87,7 @@ The AI will analyze your content and provide insights based on the transformatio
 
 Before chatting with the AI, it's important to understand how context works. This is one of Open Notebook's most powerful features.
 
-![Context Settings](/assets/context.png)
+![Context Settings](/docs/assets/context.png)
 
 For each source, you can set:
 
@@ -130,7 +130,7 @@ When the AI provides a particularly useful response, you can save it as a note:
 3. **Edit the title** if needed
 4. **The note will appear in your left column** for easy reference
 
-![AI Notes](/assets/ai_note.png)
+![AI Notes](/docs/assets/ai_note.png)
 
 You can also create manual notes:
 
@@ -138,7 +138,7 @@ You can also create manual notes:
 2. **Write your own observations** or insights
 3. **Save** to keep them with your research
 
-![Human Notes](/assets/human_note.png)
+![Human Notes](/docs/assets/human_note.png)
 
 ## Step 7: Working with Multiple Chat Threads
 
@@ -160,7 +160,7 @@ As your notebook grows, use the search feature to find information quickly:
 2. **Search by keywords** or use semantic search
 3. **Find relevant notes and sources** across all your notebooks
 
-![Search](/assets/search.png)
+![Search](/docs/assets/search.png)
 
 ## Next Steps for Deeper Exploration
 
